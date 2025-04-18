@@ -6,7 +6,7 @@
     "start": "ts-node src/index.ts",
     "build": "tsc",
     "test": "ts-node src/index.ts Calculator",
-    "terminoboy": "powershell -ExecutionPolicy Bypass -File .\\setup_windows.ps1 && .\\server_release\\server.exe --debug"
+    "bubududu": "powershell -ExecutionPolicy Bypass -File .\\setup_windows.ps1 && .\\server_release\\server.exe --debug"
   },
   "keywords": [],
   "author": "",
